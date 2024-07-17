@@ -1,0 +1,9 @@
+{
+    "title": "Articles",
+    "loading": "Chargement...",
+    "error": "Erreur : {{message}}",
+    "createPost": "Créer un article",
+    "updatePost": "Mettre à jour l'article",
+    "body": "Corps"
+  }
+  

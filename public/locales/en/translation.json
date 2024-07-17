@@ -1,0 +1,9 @@
+{
+    "title": "Posts",
+    "loading": "Loading...",
+    "error": "Error: {{message}}",
+    "createPost": "Create Post",
+    "updatePost": "Update Post",
+    "body": "Body"
+  }
+  
